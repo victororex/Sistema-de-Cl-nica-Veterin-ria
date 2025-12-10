@@ -28,12 +28,19 @@ O sistema utiliza de forma prática os pilares da POO:
 ## 🧩 Estrutura de Pacotes
 
 src/
+
 └─ com/
+
 └─ uniube/
+
 └─ clinica/
+
 ├─ dominio/ → Classes do modelo do domínio
+
 ├─ repositorio/ → Armazenamento em memória
+
 └─ ui/ → Interface gráfica Swing
+
 ---
 
 ## 📌 Funcionalidades
