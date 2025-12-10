@@ -29,11 +29,11 @@ O sistema utiliza de forma prática os pilares da POO:
 
 src/
 └─ com/
-    └─ uniube/
-        └─ clinica/
-            ├─ dominio/ → Classes do modelo do domínio
-            ├─ repositorio/ → Armazenamento em memória
-            └─ ui/ → Interface gráfica Swing
+└─ uniube/
+└─ clinica/
+├─ dominio/ → Classes do modelo do domínio
+├─ repositorio/ → Armazenamento em memória
+└─ ui/ → Interface gráfica Swing
 ---
 
 ## 📌 Funcionalidades
